@@ -19,7 +19,7 @@ The DC metro is a straightforward example of a fully connected network system. T
     <pubDate>Sun, 09 Jan 2022 17:55:28 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://kevcraig.github.io/switch-to-blogdown/</guid>
-    <description><![CDATA[In 2022 my goal is to post more content here, so it felt appropriate to give my website a facelift. This new site is built in blogdown, a package used to create websites in RMarkdown. My previous website was built with Jekyll around two years ago, and I didn&rsquo;t put much time into designing the site or understanding how to best use Jekyll. Re-starting with the Blogdown framework gave me an opportunity to start from scratch and build something I am proud of.]]></description>
+    <description><![CDATA[In 2022, my goal is to post more content here, so it felt appropriate to give my website a facelift. This new site is built in blogdown, a package used to create websites in RMarkdown. My previous website was built with Jekyll around two years ago, and I didn&rsquo;t put much time into designing the site or understanding how to best use Jekyll. Re-starting with the Blogdown framework gave me an opportunity to start from scratch and build something I am proud of.]]></description>
 </item><item>
     <title>Pro Disc Golf, Follow Flight, and Computer Vision</title>
     <link>https://kevcraig.github.io/disc-video-recognition/</link>
