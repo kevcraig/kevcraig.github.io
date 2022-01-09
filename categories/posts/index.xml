@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Posts - Category - Kevin Craig Website</title>
+        <link>https://kevcraig.github.io/categories/posts/</link>
+        <description>Posts - Category - Kevin Craig Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 09 Jan 2022 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://kevcraig.github.io/categories/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Switch to Blogdown</title>
+    <link>https://kevcraig.github.io/switch-to-blogdown/</link>
+    <pubDate>Sun, 09 Jan 2022 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://kevcraig.github.io/switch-to-blogdown/</guid>
+    <description><![CDATA[In 2022 my goal is to post more content here, so it felt appropriate to give my website a facelift. This new site is built in blogdown, a package used to create websites in RMarkdown. My previous website was built with Jekyll around two years ago, and I didn&rsquo;t put much time into designing the site or understanding how to best use Jekyll. Re-starting with the Blogdown framework gave me an opportunity to start from scratch and build something I am proud of.]]></description>
+</item><item>
+    <title>Pro Disc Golf, Follow Flight, and Computer Vision</title>
+    <link>https://kevcraig.github.io/disc-video-recognition/</link>
+    <pubDate>Sun, 02 Jan 2022 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://kevcraig.github.io/disc-video-recognition/</guid>
+    <description><![CDATA[Motivation I was first introduced to pro disc golf via JomezPro, a production company that posts disc golf tournament coverage on YouTube. Since there is usually not free access to live pro tournament coverage, companies like JomezPro film pro disc golf rounds, edit the footage with graphics and commentary same day, then post the coverage on Youtube the following morning for fans to watch the previous days action. In 2020, watching JomezPro quickly became part of my weekend morning ritual somewhere between my first cup of coffee, homework, and getting out to play my local course in Raleigh.]]></description>
+</item></channel>
+</rss>

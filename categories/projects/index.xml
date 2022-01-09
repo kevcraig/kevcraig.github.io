@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Projects - Category - Kevin Craig Website</title>
+        <link>https://kevcraig.github.io/categories/projects/</link>
+        <description>Projects - Category - Kevin Craig Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Jun 2021 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://kevcraig.github.io/categories/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>DC Metro Network Analysis</title>
+    <link>https://kevcraig.github.io/dc-metro-analysis/</link>
+    <pubDate>Tue, 13 Apr 2021 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://kevcraig.github.io/dc-metro-analysis/</guid>
+    <description><![CDATA[Network analysis is often applied to the social and online systems around us, for example, Facebook friend networks. A more concrete example of a physical network, however, is a metro system.
+The DC metro is a straightforward example of a fully connected network system. The network can be described as nodes (stations) and edges (railway paths). With each additional connection to other stations, a station&rsquo;s importance to the network becomes more critical.]]></description>
+</item><item>
+    <title>DC Metro Prediction Board</title>
+    <link>https://kevcraig.github.io/dc-metro-prediction-board/</link>
+    <pubDate>Thu, 17 Jun 2021 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://kevcraig.github.io/dc-metro-prediction-board/</guid>
+    <description><![CDATA[Overview In April, I wrote about a network analysis of the DC metro system. In the process of finding metro data for that project, I gained developer access to the WMATA metro API. One endpoint of the API was current predictions for each train and station within the DC metro network, which sparked an idea for a DIY metro board for my U-Street apartment. The goal was to build something that resembles the actual train prediction screens found in DC metro stations but have it in my own living room, all made possible by the WMATA API and some hardware found on the internet.]]></description>
+</item><item>
+    <title>ScratcherStatsNC</title>
+    <link>https://kevcraig.github.io/scratcherstats/</link>
+    <pubDate>Tue, 01 Dec 2020 16:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://kevcraig.github.io/scratcherstats/</guid>
+    <description><![CDATA[ScratcherStatsNC Link Motivation Not all scratch off tickets are created equal. I started this project when I was gifted a bunch of scratchers for my birthday and got all losers, which felt unlikely. The basic idea here is that performance is not equal amongst tickets, and that performance changes through time as people win and lose prizes. By collecting daily lottery data and making a few estimations, I can find which tickets are likely to offer the most bang for your buck.]]></description>
+</item></channel>
+</rss>
